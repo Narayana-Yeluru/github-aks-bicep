@@ -1,5 +1,8 @@
 ## 🔄 Architecture Flow Explanation (GitHub → AKS on Azure)
 
+<img width="618" height="821" alt="image" src="https://github.com/user-attachments/assets/8ab2f3ef-fd5b-486f-a87f-edf98de7fbb2" />
+
+
 ### 1️⃣ Developer commits code
 The process starts when a developer pushes code or triggers the workflow manually in the GitHub repository.
 
