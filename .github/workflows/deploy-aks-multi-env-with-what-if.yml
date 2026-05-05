@@ -79,7 +79,7 @@ jobs:
 
     env:
       RG: rg-aks-test-gh
-      LOCATION: cenralus
+      LOCATION: centralus
       PARAM_FILE: infra/params/test.bicepparam
 
     steps:
