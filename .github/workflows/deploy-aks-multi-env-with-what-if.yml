@@ -1,4 +1,4 @@
-name: AKS Multi-Env Deployment (Bicep)
+name: AKS Multi-Env Deployment with WhatIf (Bicep)
 
 on:
   workflow_dispatch:
