@@ -1,4 +1,4 @@
-name: AKS Deployment (Bicep)
+name: AKS Dev Deployment with WhatIf (Bicep)
 
 on:
   workflow_dispatch:   # 👈 manual run only
